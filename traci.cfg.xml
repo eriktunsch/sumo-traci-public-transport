@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<traci-config>
+    <config>
+        <port value="-1" />
+        <sumocfg value="G:\\Projects\\SUMO\\DLR\\Wildau\\Wildau\\output_configuration.sumocfg" />
+        <sumoexe value="sumo-gui.exe" />
+    </config>
+    <instances>
+        <instance>
+            <id value="0" />
+            <tls id="gneJ5" />
+            <loops>
+                <loop id="loop_detect_1" />
+                <loop id="loop_detect_2" />
+            </loops>
+            <prePhase index="2" delay="3" />
+            <phaseContinuations>
+                <phase index="0" />
+                <phase index="1" />
+            </phaseContinuations>
+            <finalPhase index="0" duration="40" extraTime="35" />
+            <detection>
+                <detect class="bus" />
+            </detection>
+        </instance>
+    </instances>
+</traci-config>
