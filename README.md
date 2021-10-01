@@ -23,3 +23,6 @@ The program can handle multiple traffic-lights at the same time.
 | finalPhase         | Defines which phase is the main target, how long it should be and for how long it should be extendet if the cehicle didn't reached the last loop after the normal firation ended. | int, int, int |
 | detection          | Defines which vClasses should have an influence on the control                                                                                                                    | Array         |
 | detect             | One vClass, that should be used                                                                                                                                                   | String        |
+
+To run the simulation, simply run the traci-program.
+If you want to compile the project, make sure, you set the compiler to use ANSI-Libraries, because the TraCI-Library is using ANSI. You only have to add the directories of you sumo installation into the the includes paths and library paths
