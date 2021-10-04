@@ -1,5 +1,7 @@
 #include <iostream>
-#include "libsumo/libtraci.h"
+#include <algorithm>
+
+#include <libsumo/libtraci.h>
 #include "tinyxml.h"
 
 using namespace libtraci;
