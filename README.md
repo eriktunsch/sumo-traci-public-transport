@@ -24,5 +24,7 @@ The program can handle multiple traffic-lights at the same time.
 | detection          | Defines which vClasses should have an influence on the control                                                                                                                    | Array         |
 | detect             | One vClass, that should be used                                                                                                                                                   | String        |
 
-To run the simulation, simply run the traci-program.
-If you want to compile the project, make sure, you set the compiler to use ANSI-Libraries, because the TraCI-Library is using ANSI. You only have to add the directories of you sumo installation into the the includes paths and library paths
+If the SUMO_HOME enivronment is set properly, you should not need to adapt the include and library paths. The compilation should work when using TraCI-Wildau.sln with Visual Studio or using cmake either with Visual Studio or on the command line.
+To compile the project on Windows, make sure, you set the compiler to use ANSI-Libraries, because the TraCI-Library is using ANSI.
+
+To run the simulation, simply run the resulting TraCIWildau-program.
