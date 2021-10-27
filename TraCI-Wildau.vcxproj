@@ -16,7 +16,7 @@
     <ProjectGuid>{6dfb0697-2a95-4027-9574-c0db08ef0010}</ProjectGuid>
     <RootNamespace>TraCIWildau</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>TraCI</ProjectName>
+    <ProjectName>TraCIWildau</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">

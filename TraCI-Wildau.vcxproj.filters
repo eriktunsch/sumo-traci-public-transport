@@ -18,24 +18,24 @@
     <ClCompile Include="TraCI-Wildau.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Temp\Rar$DRa14720.7201\tinyxml\tinystr.cpp">
+    <ClCompile Include="tinyxml\tinystr.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Temp\Rar$DRa14720.7201\tinyxml\tinyxml.cpp">
+    <ClCompile Include="tinyxml\tinyxml.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Temp\Rar$DRa14720.7201\tinyxml\tinyxmlerror.cpp">
+    <ClCompile Include="tinyxml\tinyxmlerror.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Temp\Rar$DRa14720.7201\tinyxml\tinyxmlparser.cpp">
+    <ClCompile Include="tinyxml\tinyxmlparser.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Temp\Rar$DRa14720.7201\tinyxml\tinystr.h">
+    <ClInclude Include="tinyxml\tinystr.h">
       <Filter>Quelldateien</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Temp\Rar$DRa14720.7201\tinyxml\tinyxml.h">
+    <ClInclude Include="tinyxml\tinyxml.h">
       <Filter>Quelldateien</Filter>
     </ClInclude>
   </ItemGroup>
