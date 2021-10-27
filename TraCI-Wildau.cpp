@@ -2,7 +2,7 @@
 #include <algorithm>
 
 #include <libsumo/libtraci.h>
-#include "tinyxml.h"
+#include "tinyxml/tinyxml.h"
 
 using namespace libtraci;
 using namespace std;
