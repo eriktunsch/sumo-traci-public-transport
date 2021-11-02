@@ -3,7 +3,7 @@
     <config>
         <port value="-1" />
         <sumocfg value="G:\\Projects\\SUMO\\DLR\\Wildau\\Wildau\\output_configuration.sumocfg" />
-        <sumoexe value="sumo-gui.exe" />
+        <sumoexe value="sumo-gui" />
     </config>
     <instances>
         <instance>

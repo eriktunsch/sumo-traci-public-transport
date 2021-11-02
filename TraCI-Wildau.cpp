@@ -2,14 +2,14 @@
 #include <algorithm>
 
 #include <libsumo/libtraci.h>
-#include "tinyxml.h"
+#include "tinyxml/tinyxml.h"
 
 using namespace libtraci;
 using namespace std;
 
 int port = -1;
 std::string sumocfg = "";
-std::string sumoexe = "sumo-gui.exe";
+std::string sumoexe = "sumo-gui";
 
 std::vector<std::tuple<std::string, int, int, int, int>> to_execute = {};
 
