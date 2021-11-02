@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2021-10-24 04:54:14 by Eclipse SUMO GUI Version 1.10.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="G:\Projects\SUMO\DLR\Wildau\Wildau\Netzmodell2.net.xml"/>
+        <route-files value="G:\Projects\SUMO\DLR\Wildau\Wildau\flows_SUMOV2.2.rou.xml,G:\Projects\SUMO\DLR\Wildau\Wildau\bus.rou.xml"/>
+        <additional-files value="G:\Projects\SUMO\DLR\Wildau\Wildau\additional.add.xml,G:\Projects\SUMO\DLR\Wildau\Wildau\osm_stops.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="53990"/>
+        <end value="61000"/>
+    </time>
+
+    <gui_only>
+        <gui-settings-file value="G:\Projects\SUMO\DLR\Wildau\Wildau\settings.xml"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="53990.00" end="54130.00" id="loop_detect_2" nVehContrib="16" flow="411.43" occupancy="29.94" speed="9.30" harmonicMeanSpeed="3.92" length="7.31" nVehEntered="17"/>
+</detector>

@@ -1,0 +1,6 @@
+<additional>
+	<edgeData id="SUMO-Wildau" file="output_Wildau.xml" />
+
+	<inductionLoop id="loop_detect_1" lane="4935286#3_1" pos="55" freq="1800" file="loop_detect_1.out.xml"/>
+	<inductionLoop id="loop_detect_2" lane="131942152_1" pos="45" freq="1800" file="loop_detect_2.out.xml"/>
+</additional>

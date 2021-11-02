@@ -1,0 +1,1 @@
+python "%SUMO_HOME%/bin/activitygen" --net-file=../Netzmodell2.net.xml --stat-file=result.xml --output-file=activityGen.trips.xml --random
